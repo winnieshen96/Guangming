@@ -14,8 +14,11 @@ Web-crawling Guangming Daily
    If you don't have pip, follow the instructions on https://pip.pypa.io/en/stable/installing/ to install pip on your computer.
 
    After you have pip, type in the following commands in cmd to install these packages.
+   
    pip install requests
+   
    pip install beautifulsoup4
+   
    pip install pandas
 
    If you are choosing pycharm to run guangming.py, the latest version of pycharm can intelligently set up the installing process for you.
@@ -31,6 +34,9 @@ Recent added features include:
 1. Improved the efficiency of writing file, taking less memory while running.
 
 2. Developed an interface to get the following input from user.
+
    Ask the user to input date range, instead of making the date range embedded in the code.
+   
    Ask the user to input the gap time for each crawl, adding flexibility to the crawling process.
+   
    Ask the user to input the path they want, and create the path for the user, avoiding "DirectoryNotFound" errors.
