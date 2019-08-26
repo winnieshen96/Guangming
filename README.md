@@ -15,9 +15,9 @@ Web-crawling Guangming Daily
    
    (2) Packages: Install requests, beautifulsoup4, pandas
 
-       If you don't have pip, follow the instructions on https://pip.pypa.io/en/stable/installing/ to install pip on your computer.
+      If you don't have pip, follow the instructions on https://pip.pypa.io/en/stable/installing/ to install pip on your computer.
 
-       After you have pip, type in the following commands in cmd to install these packages.
+      After you have pip, type in the following commands in cmd to install these packages.
    
        pip install requests
    
@@ -25,7 +25,7 @@ Web-crawling Guangming Daily
    
        pip install pandas
 
-       If you are choosing pycharm to run guangming.py, the latest version of pycharm can intelligently set up the installing process for you.
+      If you are choosing pycharm to run guangming.py, the latest version of pycharm can intelligently set up the installing process for you.
 
 3. Run guangming.py, input in the info as required by the program.
 
