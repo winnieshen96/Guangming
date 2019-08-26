@@ -9,7 +9,11 @@ Web-crawling Guangming Daily
 
 1. Download the guangming.py file.
 
-2. Run Configuration: Install requests, beautifulsoup4, pandas
+2. Run Configuration: 
+
+   (1) This program requires python 3.0 or higher to successfully run.
+   
+   (2) Packages: Install requests, beautifulsoup4, pandas
 
    If you don't have pip, follow the instructions on https://pip.pypa.io/en/stable/installing/ to install pip on your computer.
 
