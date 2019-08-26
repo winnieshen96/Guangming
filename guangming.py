@@ -56,7 +56,7 @@ def getTimeZone(starttime, endtime):
 
 
 def getTimeGap():
-    print("\r\nUsually you will need time gap for web crawling, since web crawling easily cause" +
+    print("\r\nUsually you will need time gap for web crawling, since web crawling easily cause " +
           "the page to crash. The recommended time gap is 3s")
     timeGap = 0.0
     while timeGap == 0.0:
